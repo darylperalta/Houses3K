@@ -2,7 +2,7 @@
 
 Houses3K is a dataset of 3000 textured 3D house models. Houses3K  is divided into twelve batches, each containing 50 unique house geometries. For each batch, five different textures were applied forming the sets (A, B, C, D, E).
 
-<img src='imgs/Dataset_Table.png' width="450"/>
+<img src='imgs/Dataset_Table.png' width="400"/>
 
 
 ## Modular approach to creating Houses3K
