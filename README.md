@@ -9,7 +9,7 @@ Houses3K is a dataset of 3000 textured 3D house models. Houses3K  is divided int
 <img src='imgs/modular.png' width="600"/>
 
 ## Download
-Houses3K Dataset can be downloaded  [here](https://drive.google.com/drive/folders/1lbuzOsz3DIJVVAzvuT-KzDs3pVzGWPwx?usp=sharing).
+Houses3K Dataset can be downloaded  [here](https://drive.google.com/drive/folders/1fb5gGBxFIibvHrsJGquO6N8rqKSbkIZB?usp=sharing).
 
 
 ## Citation
