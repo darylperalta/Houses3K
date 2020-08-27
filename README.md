@@ -11,9 +11,9 @@ Houses3K is a dataset of 3000 textured 3D house models. Houses3K  is divided int
 ## Download
 Houses3K Dataset can be downloaded  [here](https://drive.google.com/drive/folders/1fb5gGBxFIibvHrsJGquO6N8rqKSbkIZB?usp=sharing).
 
-
+The dataset is in FBX format. You can convert it to other 3D model formats using 3D modelling software like [Blender](https://www.blender.org/) or [Maya](https://www.autodesk.com/products/maya/overview?support=ADVANCED&plc=MAYA&term=1-YEAR&quantity=1).
 ## Citation
 
 Houses3K was originally used to train and evaluate [Scan-RL](https://github.com/darylperalta/ScanRL). Please cite our paper if you find Houses3K useful to your research.
 
-## License
+## [License](LICENSE)
