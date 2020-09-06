@@ -26,5 +26,12 @@ The dataset is in FBX format. You can convert it to other 3D model formats using
 ## Citation
 
 Houses3K was originally used to train and evaluate [Scan-RL](https://github.com/darylperalta/ScanRL). Please cite our paper if you find Houses3K useful to your research.
-
+```
+@article{peralta2020next,
+  title={Next-Best View Policy for 3D Reconstruction},
+  author={Peralta, Daryl and Casimiro, Joel and Nilles, Aldrin Michael and Aguilar, Justine Aletta and Atienza, Rowel and Cajote, Rhandley},
+  journal={arXiv preprint arXiv:2008.12664},
+  year={2020}
+}
+```
 ## [License](LICENSE)
